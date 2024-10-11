@@ -1,4 +1,9 @@
-## Hi there 👋
+Autumn greetings! 👋🍄🍂
+
+I am a Pediatric Nurse, currently studying to become an ICT Engineer at LAB University of Applied Sciences. 
+I am currently working on a course on the basics of IoT and embedded systems. I am especially interested in learning about coding. 
+
+In my free time, you'll often find me riding bikes with friends 🚴‍♀️🚵‍♀️!
 
 <!--
 **JasmiinaT/JasmiinaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
